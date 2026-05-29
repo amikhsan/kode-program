@@ -244,12 +244,14 @@ java belajar\_project
 
 \* `README.md` → Dokumentasi project
 
-- langkah-langkah menjalankan program
 
+
+
+- langkah-langkah menjalankan program
 
 1. Download atau salin belajar_project
 
-2. Buka menggunakan VS Code / IntelliJ / NetBeans
+2. Buka menggunakan VS Code
 
 3. Compile file Java
 
@@ -258,6 +260,7 @@ java belajar\_project
 5. Program akan tampil di terminal
 
 \---
+
 
 
 \# Mata Kuliah
