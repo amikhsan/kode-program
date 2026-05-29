@@ -93,19 +93,12 @@ Atribut Barang:
 
 
 | Atribut  | Tipe Data | Keterangan      |
-
-
-
+|----------|-----------|-----------------|
 | id       | int       | ID barang       |
-
 | nama     | String    | Nama barang     |
-
 | kategori | String    | Kategori barang |
-
 | jumlah   | int       | Jumlah stok     |
-
 | aktif    | boolean   | Status data     |
-
 
 
 
@@ -222,7 +215,7 @@ Kompleksitas:
 
 
 
-\# Compile Program
+\- Compile Program
 
 
 
@@ -234,7 +227,7 @@ javac belajar\_project.java
 
 
 
-\# Menjalankan Program
+\- Menjalankan Program
 
 
 
@@ -243,14 +236,7 @@ javac belajar\_project.java
 java belajar\_project
 
 ```
-
-
-
-
-
 \# File Project
-
-
 
 \* `belajar\_project.java` → Source code program
 
@@ -258,24 +244,26 @@ java belajar\_project
 
 \* `README.md` → Dokumentasi project
 
+- langkah-langkah menjalankan program
 
+
+1. Download atau salin belajar_project
+
+2. Buka menggunakan VS Code / IntelliJ / NetBeans
+
+3. Compile file Java
+
+4. Jalankan file main
+
+5. Program akan tampil di terminal
 
 \---
 
 
-
 \# Mata Kuliah
-
-
 
 Algoritma dan Struktur Data (ASD)
 
-
-
 \# Tema Project
 
-
-
 Sistem Inventaris Barang Minimarket
-
-
